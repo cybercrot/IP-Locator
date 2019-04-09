@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 # Ip Geolocation 
-#By : Z-hacker
+# creat : YUDHA
 
 
 use Socket;
@@ -13,25 +13,18 @@ print color 'bold bright_green';
  
 print q{
 
-      _____          _                _             
-     |__  /         | |__   __ _  ___| | _____ _ __ 
-       / /   _____  | '_ \ / _` |/ __| |/ / _ \ '__|
-      / /_  |_____| | | | | (_| | (__|   <  __/ |   
-     /____|         |_| |_|\__,_|\___|_|\_\___|_|   
-                                               
-             ___ ____            _                 _             
-            |_ _|  _ \          | | ___   ___ __ _| |_ ___  _ __ 
-             | || |_) |  _____  | |/ _ \ / __/ _` | __/ _ \| '__|
-             | ||  __/  |_____| | | (_) | (_| (_| | || (_) | |   
-            |___|_|             |_|\___/ \___\__,_|\__\___/|_|   
-                                                            
-
-                  Ip Geolocation Tool  
-                  By : Z-hacker                                           
-
-       ------------------------------------   
-             [FOLLOW US ON YOUTUBE]          :. https://goo.gl/83QFyp .:
-       ------------------------------------   
+             0 0 0 0        0        0           0  0 0 0 0 0         0        0 0 0 0    ========================
+                   0       0 0       0 0       0 0  0        0       0 0       0       0  UNTUK KALANGAN INTERNAL
+                   0      0   0      0   0   0   0  0      0        0   0      0        0 ========================
+                   0     0 000 0     0     0     0  0 0000         0 000 0     0  0 0 0   ========================
+                   0    0       0    0           0  0      0      0       0    0 0          CYBER CROT KARAWANG
+             0    0   0          0   0           0  0        0   0         0   0   0      ========================
+              0 0    0            0  0           0  0 0 0 0 0   0           0  0     0
+                JAMBARTROOPS    JAMBARTROOPS  JAMBARTROOPS  JAMBARTROOPS  JAMBARTROOPS  JAMBARTROOPS JAMBARTROOPS                       
+            =======================================================================================================    
+                    SAYA DEDIKASIKAN KEPADA KEPOLISIAN REPUBLIK INDONESIA POLSEK TELUK JAMBE BARAT KARAWANG     
+                              " JANGAN BERBUAT JAHAT DI KARAWANG BARAT ,KARENA ITU BERAT "
+                  
 };
 
 
